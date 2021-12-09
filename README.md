@@ -52,3 +52,6 @@ The `coco2017` folder should be like this:
 
 **Note:** Currently we only support for single-gpu training (Recomended: TITAN RTX).
 
+# Testing
+
+Please see the PosePlusSeg_Test folder for testing the model. 
