@@ -3,4 +3,4 @@
 Official code for the paper "Joint Human Pose Estimation and Instance Segmentation with PosePlusSeg"[arXiv] version will be available soon.
 
 # Model architecture. 
-![](demo_result/N_Model_AAAI.pdf)
+![](demo_result/0001.jpg)
