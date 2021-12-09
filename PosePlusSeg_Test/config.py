@@ -220,8 +220,8 @@ class config:
 
 
     # Where to save the coco2017 dataset
-    ANNO_FILE = '/content/drive/MyDrive/StrongPose/coco2017/annotations/person_keypoints_val2017.json' #val_ochuman_coco.json // person_keypoints_val2017
-    IMG_DIR = '/content/drive/MyDrive/StrongPose/coco2017/val2017/' #OCHuman   //   val2017
+    ANNO_FILE = 'COCO2017/annotations/person_keypoints_val2017'         #val_ochuman_coco.json // person_keypoints_val2017
+    MG_DIR = 'COCO2017/val2017/'                                        #OCHuman   //   val2017
     
     
     # log dir
