@@ -58,13 +58,13 @@ Please see the PosePlusSeg_Test folder for testing the model.
 
 # Results
 
-### Human Pose Estimation
+# Human Pose Estimation
 <img src="demo_result/pose.png" width="500" height="600">
 
-### Human Instance Segmentation
+# Human Instance Segmentation
 
 <img src="demo_result/seg.png" width="500" height="600">
 
-### Joint Human Pose Estimation and Instance Segmentation
+# Joint Human Pose Estimation and Instance Segmentation
 
 <img src="demo_result/PosePlusSeg.png" width="500" height="600">
