@@ -46,5 +46,6 @@ The `coco2017` folder should be like this:
 # Training
 
 ```python train.py```
+
 **Note:** Currently we only support for single-gpu training.
 
