@@ -1,1 +1,1 @@
-# PosePlusSeg
+# PosePlusSeg (AAAI 2022)
