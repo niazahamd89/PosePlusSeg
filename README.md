@@ -15,3 +15,8 @@ conda install -c conda-forge pycocotools
 conda install -c anaconda scikit-image
 conda install tensorflow-gpu==1.13.1
 ```
+# Download data
+
+###COCO 2017
+
+COCO 2017 Train images [118K/18GB](https://cocodataset.org/#download).
