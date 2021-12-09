@@ -27,3 +27,26 @@ Official code for the paper "Joint Human Pose Estimation and Instance Segmentati
 ### Hint 
 
 Person keypoint dataset is a subset of COCO2017 dataset ([COCO 2017 Train images 118K/18GB](http://images.cocodataset.org/annotations/annotations_trainval2017.zip)). We train our model only on human instaces keypoints and segmentation by intruducing a multi task system. 
+
+# Setup data
+
+The `data` folder should be like this:
+```
+Data  
+├── coco2017
+│   ├── annotations  
+│   │   ├── person_keypoints_train2017_pose2seg.json 
+│   │   ├── person_keypoints_val2017_pose2seg.json 
+│   ├── train2017  
+│   │   ├── ####.jpg  
+│   ├── val2017  
+│   │   ├── ####.jpg  
+├── OCHuman 
+│   ├── annotations  
+│   │   ├── ochuman_coco_format_test_range_0.00_1.00.json   
+│   │   ├── ochuman_coco_format_val_range_0.00_1.00.json   
+│   ├── images  
+│   │   ├── ####.jpg 
+
+```
+
