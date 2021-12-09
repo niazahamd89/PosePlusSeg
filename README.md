@@ -24,4 +24,5 @@ Official code for the paper "Joint Human Pose Estimation and Instance Segmentati
 - [COCOPersons Train Annotation (person_keypoints_train2017_pose2seg.json) [166MB]](https://github.com/liruilong940607/Pose2Seg/releases/download/data/person_keypoints_train2017_pose2seg.json)
 - [COCOPersons Val Annotation (person_keypoints_val2017_pose2seg.json) [7MB]](https://github.com/liruilong940607/Pose2Seg/releases/download/data/person_keypoints_val2017_pose2seg.json)
 
-@Note: person_keypoints_(train/val)2017_pose2seg.json is a subset of person_keypoints_(train/val)2017.json (in COCO2017 Train/Val annotations). We choose those instances with both keypoint and segmentation annotations for our experiments.
+###Hint 
+`person_keypoints_(train/val)2017_pose2seg.json` is a subset of person_keypoints_(train/val)2017.json (in COCO2017 Train/Val annotations). We choose those instances with both keypoint and segmentation annotations for our experiments.
