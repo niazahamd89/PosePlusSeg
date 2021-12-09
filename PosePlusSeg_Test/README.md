@@ -1,11 +1,11 @@
 # Setup data
 
-The `coco2017` folder should be like this:
+The `COCO2017` folder should be like this:
 ``` 
-├── coco2017
+├── COCO2017
 │   ├── annotations  
-│   │   ├── person_keypoints_val2017_pose2seg.json 
-│   │   ├── person_keypoints_val2017_pose2seg.json 
+│   │   ├── person_keypoints_train2017.json 
+│   │   ├── person_keypoints_val2017.json 
 │   ├── train2017  
 │   │   ├── ####.jpg  
 │   ├── val2017  
