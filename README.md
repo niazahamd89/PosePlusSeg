@@ -50,5 +50,5 @@ The `coco2017` folder should be like this:
 
 ```python train.py```
 
-**Note:** Currently we only support for single-gpu training.
+**Note:** Currently we only support for single-gpu training (Recomended: TITAN RTX).
 
