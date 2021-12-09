@@ -7,27 +7,10 @@ Official code for the paper "Joint Human Pose Estimation and Instance Segmentati
 
 # Setup environment
 
-<details>
-           <summary>python==3.6</summary>
-           <summary>conda install -c conda-forge matplotlib==2.0.2</summary>
-           <summary>conda install -c conda-forge opencv OR pip install opencv-python</summary>
-           <summary>conda install -c conda-forge pycocotools</summary>
-           <summary>conda install -c anaconda scikit-image</summary>
-           <summary>conda install tensorflow-gpu==1.13.1</summary>
-         </details>
-
-```<summary>python==3.6</summary>
-           <summary>conda install -c conda-forge matplotlib==2.0.2</summary>
-           <summary>conda install -c conda-forge opencv OR pip install opencv-python</summary>
-           <summary>conda install -c conda-forge pycocotools</summary>
-           <summary>conda install -c anaconda scikit-image</summary>
-           <summary>conda install tensorflow-gpu==1.13.1</summary>```
-
-
-
-
-
-
-
-
-
+```python ==3.6
+conda install -c conda-forge matplotlib==2.0.2
+conda install -c conda-forge opencv OR pip install opencv-python
+conda install -c conda-forge pycocotools
+conda install -c anaconda scikit-image
+conda install tensorflow-gpu==1.13.1
+```
