@@ -58,11 +58,11 @@ Please see the PosePlusSeg_Test folder for testing the model.
 
 # Results
 
-# Human Pose Estimation
+### Human Pose Estimation
 ![](demo_result/pose.png)
 
-# Human Instance Segmentation
+### Human Instance Segmentation
 ![](demo_result/seg.png)
 
-# Joint Human Pose Estimation and Instance Segmentation
+### Joint Human Pose Estimation and Instance Segmentation
 ![](demo_result/PosePlusSeg.png)
