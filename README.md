@@ -30,9 +30,8 @@ Person keypoint dataset is a subset of COCO2017 dataset ([COCO 2017 Train images
 
 # Setup data
 
-The `data` folder should be like this:
-```
-Data  
+The `coco2017` folder should be like this:
+``` 
 ├── coco2017
 │   ├── annotations  
 │   │   ├── person_keypoints_train2017_pose2seg.json 
@@ -41,12 +40,6 @@ Data
 │   │   ├── ####.jpg  
 │   ├── val2017  
 │   │   ├── ####.jpg  
-├── OCHuman 
-│   ├── annotations  
-│   │   ├── ochuman_coco_format_test_range_0.00_1.00.json   
-│   │   ├── ochuman_coco_format_val_range_0.00_1.00.json   
-│   ├── images  
-│   │   ├── ####.jpg 
 
 ```
 
