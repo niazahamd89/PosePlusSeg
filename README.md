@@ -7,7 +7,7 @@ Official code for the paper "Joint Human Pose Estimation and Instance Segmentati
 
 # Setup environment
 
-Markup : <details>
+<details>
            <summary>python ==3.6</summary>
            <summary>conda install -c conda-forge matplotlib==2.0.2</summary>
            <summary>conda install -c conda-forge opencv OR pip install opencv-python</summary>
