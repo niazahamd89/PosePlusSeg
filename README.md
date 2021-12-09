@@ -55,3 +55,14 @@ The `coco2017` folder should be like this:
 # Testing
 
 Please see the PosePlusSeg_Test folder for testing the model. 
+
+# Results
+
+# Human Pose Estimation
+![](demo_result/pose.png)
+
+# Human Instance Segmentation
+![](demo_result/seg.png)
+
+# Joint Human Pose Estimation and Instance Segmentation
+![](demo_result/PosePlusSeg.png)
