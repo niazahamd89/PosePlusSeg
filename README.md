@@ -19,4 +19,4 @@ conda install tensorflow-gpu==1.13.1
 
 ###COCO 2017
 
-COCO 2017 Train images [118K/18GB](https://cocodataset.org/#download).
+[COCO 2017 Train images118K/18GB](https://cocodataset.org/#download).
