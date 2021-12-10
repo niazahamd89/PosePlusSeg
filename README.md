@@ -27,7 +27,7 @@ Official code repo for the paper **"Joint Human Pose Estimation and Instance Seg
 - [COCOPersons Train Annotation (person_keypoints_train2017_pose2seg.json) [166MB]](https://github.com/liruilong940607/Pose2Seg/releases/download/data/person_keypoints_train2017_pose2seg.json)
 - [COCOPersons Val Annotation (person_keypoints_val2017_pose2seg.json) [7MB]](https://github.com/liruilong940607/Pose2Seg/releases/download/data/person_keypoints_val2017_pose2seg.json)
 
-### Hint 
+#### Hint 
 
 Person keypoint dataset is a subset of COCO2017 dataset ([COCO 2017 Train images 118K/18GB](http://images.cocodataset.org/annotations/annotations_trainval2017.zip)). We train our model only on human instances key points and segmentation by introducing a multi task system. 
 
@@ -51,7 +51,7 @@ The `coco2017` folder should be like this:
 
  Run the `python train.py` for training the model. 
 
-### Note
+#### Note
 
 1. Please correctly give the path to the `dataset folder` and `check point files` in the `config.py` file. 
 2. Currently we only support single-gpu training (Recommended: TITAN RTX).
