@@ -55,7 +55,7 @@ The `coco2017` folder should be like this:
 
 # Testing
 
-Please see the PosePlusSeg_Test folder for testing the model. 
+Please lockout the `PosePlusSeg_Test` folder for testing the model. 
 
 # Results
 
