@@ -47,7 +47,7 @@ The `coco2017` folder should be like this:
 
 ```
 
-# Training
+# Train
 
  Run the `python train.py` for training the model. 
 
@@ -56,11 +56,11 @@ The `coco2017` folder should be like this:
 1. Please correctly give the path to the `dataset folder` and `check point files` in the `config.py` file. 
 2. Currently we only support single-gpu training (Recommended: TITAN RTX).
 
-# Testing
+# Test
 
 Please lookout the `PosePlusSeg_Test` folder for testing the model. 
 
-# Results
+# Visualize Results
 
 #### Human Pose Estimation
 <img src="demo_result/pose.png" width="500" height="600">
