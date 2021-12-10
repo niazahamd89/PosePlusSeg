@@ -55,8 +55,7 @@ The `coco2017` folder should be like this:
 
 ```
 - Please correctly give the path to the `dataset folder` and `check point files` in the `config.py` file. 
--Currently we only support single-gpu training (Recommended: TITAN RTX).
-
+- Currently we only support single-gpu training (Recommended: TITAN RTX).
 ```
 
 # Testing
