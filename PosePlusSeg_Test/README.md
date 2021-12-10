@@ -20,3 +20,7 @@ The `COCO2017` folder should be like this:
 │   │   ├── ####.jpg  
 
 ```
+
+# Generate the Keypoints and binary mask
+
+Run the `demo.py` file to get the keypoints coordinates and confidence scores of each keypoint and store it in a txt file (keypoints.txt). `demo.py` also produce the binary mask information and stores it txt file (segmentation.txt).   
