@@ -49,9 +49,9 @@ The `coco2017` folder should be like this:
 
 # Training
 
-```python train.py```
+ Run the `python train.py` for training the model. 
 
-### Note
+# Note
 
 ```
 - Please correctly give the path to the `dataset folder` and `check point files` in the `config.py` file. 
