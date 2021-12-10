@@ -16,7 +16,7 @@ Official code for the paper "Joint Human Pose Estimation and Instance Segmentati
 - conda install tensorflow-gpu==1.13.1
 ```
 
-**Recomendation tensorflow and coda version:** tensorflow 1.13 is compatable with coda 10.
+**Recomendation:** tensorflow 1.13 & coda 10.
 
 # Download data
 
