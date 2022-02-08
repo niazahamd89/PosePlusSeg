@@ -23,7 +23,7 @@ The `COCO2017` folder should be like this:
 
 # Generate the Keypoints and binary mask
 
-Run the `demo.py` file to get the keypoints coordinates and confidence scores of each keypoint and store it in a `txt` file (`keypoints.txt`). `demo.py` also produces the binary mask information and stores it `txt` file (`segmentation.txt`).   
+Run the `demo.py` file to get the keypoints coordinates and confidence scores of each keypoint and store it in a `txt` file (`keypoints.txt`). `demo.py` also produces the binary mask information and stores it into `txt` file (`segmentation.txt`).   
 
 # Convert the keypoints and mask into COCO formate
 
