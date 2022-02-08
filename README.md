@@ -16,7 +16,7 @@ Official code repo for the paper **"Joint Human Pose Estimation and Instance Seg
 - conda install tensorflow-gpu==1.13.1
 ```
 
-**Recomended:** tensorflow 1.13, coda 10, $ Nvidia TITAN RTX
+**Recomended:** tensorflow 1.13, coda 10, & Nvidia TITAN RTX
  
 # Download data
 
