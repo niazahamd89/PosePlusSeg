@@ -5,7 +5,7 @@ Official code repo for the paper **"Joint Human Pose Estimation and Instance Seg
 # Model Architecture 
 ![](demo_result/0001.png)
 
-# Setup environment
+# Environmental Setup 
 
 ```
 - python==3.6
@@ -16,8 +16,8 @@ Official code repo for the paper **"Joint Human Pose Estimation and Instance Seg
 - conda install tensorflow-gpu==1.13.1
 ```
 
-**Recomendation:** tensorflow 1.13 & coda 10.
-
+**Recomended:** tensorflow 1.13, coda 10, $ Nvidia TITAN RTX
+ 
 # Download data
 
 ### COCO 2017
@@ -53,12 +53,12 @@ The `coco2017` folder should be like this:
 
 #### Note
 
-1. Please correctly give the path to the `dataset folder` and `check point files` in the `config.py` file. 
+1. Please correctly assign the path to the `dataset folder` and `check point files` in the `config.py` file. 
 2. Currently we only support single-gpu training (Recommended: TITAN RTX).
 
 # Test
 
-Please lookout the `PosePlusSeg_Test` folder for testing the model. 
+Please lookout the `PosePlusSeg_Test` folder for model evaluation. 
 
 # Visualize Results
 
